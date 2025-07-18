@@ -1,4 +1,4 @@
-** start of script.js **
+
 
 let lunches = [];
 
@@ -56,5 +56,5 @@ function showLunchMenu(menu) {
 
 
 
-** end of script.js **
+
 
